@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging racing game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Victory Heat Rally in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.12+ |
+| **Processor** | 2 Ghz Dual Core | 2 Ghz Dual Core |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | Graphics card supporting DirectX 9.0c | Graphics card with DX10 (shader model 4.0) capabilities |
+| **DirectX** | Version 9.0c | Version 9.0c |
+| **Storage** | 100 MB available space | 100 MB available space |
+| **OS *** | Windows 7 SP1+ | Windows 7 SP1+ |
+| **Sound Card** | Any | Any |
 
 ---
 
